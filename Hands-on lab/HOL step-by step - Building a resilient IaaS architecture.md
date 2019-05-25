@@ -121,7 +121,7 @@ Contoso is planning to deploy infrastructure in multiple regions in Azure to pro
 
 1.  Login to the Azure portal (<https://portal.azure.com>) with the credentials that you want to deploy the lab environment to.
 
-2.  In a separate tab, navigate to: <https://github.com/opsgility/cw-building-resilient-iaas-architecture>.
+2.  In a separate tab, navigate to: <hhttps://github.com/kloudynetklassrooms/cw-building-resilient-iaas-architecture>.
 
 3.  Click the button **Deploy to Azure**.
 
