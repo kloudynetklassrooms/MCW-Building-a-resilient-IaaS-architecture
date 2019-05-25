@@ -498,7 +498,7 @@ In this exercise, you will deploy resilient web servers using VM scale sets and 
 
 In this task, you will deploy a SQL Always-On cluster using an ARM template that deploys to your existing Virtual Network and Active Directory infrastructure.
 
-1.  Navigate to https://github.com/hansenms/iac/tree/master/sql-alwayson and click **Deploy to Azure** to deploy the template.
+1.  Navigate to https://github.com/kloudynetklassrooms/iac/tree/master/sql-alwayson and click **Deploy to Azure** to deploy the template.
    
 2.  Specify the following information
    
@@ -576,10 +576,10 @@ In this task, you will deploy a SQL Always-On cluster using an ARM template that
     
     >**Note**: You need to pass the parameters below with the PowerShell script. If you download the script from the URL below in your local desktop or any drive, just copy and paste in your PowerShell window.
     
-    https://github.com/opsgility/cw-building-resilient-iaas-architecture/tree/master/script-extensions 
+    https://github.com/kloudynetklassrooms/cw-building-resilient-iaas-architecture/tree/master/script-extensions 
 
     
-    PS C:\Users\demouser.SQL0\Desktop> .\deploy-cloudshop-db.ps1  -user "demouser" -password "demo@pass123" -dbsource "https://cloudworkshop.blob.core.windows.net/building-resilient-iaas-architecture/AdventureWorks2012.bak" -sqlConfigUrl "https://raw.githubusercontent.com/opsgility/cw-building-resilient-iaas-architecture/master/script-extensions/configure-sql.ps1"
+    PS C:\Users\demouser.SQL0\Desktop> .\deploy-cloudshop-db.ps1  -user "demouser" -password "demo@pass123" -dbsource "https://cloudworkshop.blob.core.windows.net/building-resilient-iaas-architecture/AdventureWorks2012.bak" -sqlConfigUrl "https://raw.githubusercontent.com/kloudynetklassrooms/cw-building-resilient-iaas-architecture/master/script-extensions/configure-sql.ps1"
 
 
     >**Note**: You may need to wait few minutes to view the newly created adventureworks database in SSMS.
@@ -597,7 +597,7 @@ In this task, you will deploy a SQL Always-On cluster using an ARM template that
 
 In this task, you will deploy a highly available web servers. 
 
-1. Navigate to the URL: https://github.com/opsgility/cw-building-resilient-iaas-architecture and click to **Deploy to Azure** on the sample for building a resilient IaaS Architecture - Deploy Web Tier.
+1. Navigate to the URL: https://github.com/kloudynetklassrooms/cw-building-resilient-iaas-architecture and click to **Deploy to Azure** on the sample for building a resilient IaaS Architecture - Deploy Web Tier.
    
 2.  Specify the existing resource group **CloudShopRG**. 
 
