@@ -126,7 +126,7 @@ Contoso's business critical applications include:
 
 1.  The IT department is using outdated guidance on Azure and they need updated guidance on current architectural and deployment best practices.
 
-2.  They need assistance with enabling connectivity and authentication for new infrastructure that will be deployed for the Seattle office.
+2.  They need assistance with enabling connectivity and authentication for new infrastructure that will be deployed for the Hongkong office.
 
 3.  Identify the infrastructure requirements that should be configured to provide redundancy and resiliency to the web servers and the database servers for the ordering application in order to protect them from system downtime and/or region wide outage.
 
