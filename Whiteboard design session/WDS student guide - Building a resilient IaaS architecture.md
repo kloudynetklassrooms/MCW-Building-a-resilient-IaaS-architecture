@@ -106,13 +106,13 @@ Kenneth Yeo, infrastructure lead, is researching options for making the overall 
 
 For the current ADDS implementation in Azure, the team has deployed a single domain controller in the Southeast Asia region. It is running on a Standard D1 instance with Active Directory deployed on the C: drive.
 
-![This image represents a single domain controller in the Southeast Asia region.](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image4.png "Southeast Asia region - Single Domain Controller")
+![This image represents a single domain controller in the Southeast Asia region.](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image4-Corrected.png "Southeast Asia region - Single Domain Controller")
 
 Additionally, the SQL Server VM and Web site implementation are also housed at the same region. SQL has been deployed on a single VM with multiple disks. One disk is utilized for the data; the other disk is for backup and log file storage. The underlying storage account is configured for geo replication.
 
 They have deployed a load balancer in front of the web servers and configured a default health probe to monitor the servers in the load balanced pool. When they need scalability, they manually configure another web server and often leave it running even after the need for additional capacity has passed.
 
-![The SQL and Web Server Current Implementation diagram depicts three virtual machines behind a load balancer and availability set, and a single virtual machine for SQL server with two disks for data.](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image5.png "SQL and Web Server Current Implementation")
+![The SQL and Web Server Current Implementation diagram depicts three virtual machines behind a load balancer and availability set, and a single virtual machine for SQL server with two disks for data.](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image5-Corrected.png "SQL and Web Server Current Implementation")
 
 
 Contoso's business critical applications include:
