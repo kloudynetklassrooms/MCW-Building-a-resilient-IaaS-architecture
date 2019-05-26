@@ -231,7 +231,7 @@ Kenneth Yeo, infrastructure lead, is researching options for making the overall 
 
 For the current ADDS implementation in Azure, the team has deployed a single domain controller in the Southeast Asia region. It is running on a Standard D1 instance with Active Directory deployed on the C: drive.
 
-![This image represents a single domain controller in the Southeast Asia region.](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image4.png "Southeast Asia region - Single Domain Controller")
+![This image represents a single domain controller in the Southeast Asia region.](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image4-Corrected.png "Southeast Asia region - Single Domain Controller")
 
 Additionally, the SQL Server VM and Web site implementation are also housed at the same region. SQL has been deployed on a single VM with multiple disks. One disk is utilized for the data; the other disk is for backup and log file storage. The underlying storage account is configured for geo replication.
 
