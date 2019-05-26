@@ -527,9 +527,9 @@ Network Security Groups for the Southeast Asia Virtual Network:
 |  ADDS Repl     |       110          |  192.168.1.10   |  ANY          |  ANY                   |  10.0.3.0/24     |  ANY                  |  ALLOW    |
 |  ADDS Repl     |       120          |  192.168.1.11   |  ANY          |  ANY                   |  10.0.3.0/24     |  ANY                  |  ALLOW    |
 
-**Network Security Groups for the West US 2 Virtual Network**
+**Network Security Groups for the East Asia Virtual Network**
 
-Since Contoso has not deployed any additional infrastructure to West US 2 the only ports needed are for administration and replication of Active Directory.
+Since Contoso has not deployed any additional infrastructure to East Asia the only ports needed are for administration and replication of Active Directory.
 
 **Identity Tier NSGs**   
     
@@ -637,7 +637,7 @@ Alternatively, you can also use SQL Server Managed Backup to Azure. It manages a
 For details on SQL Server Managed Backup see the following:
 <https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/enable-sql-server-managed-backup-to-microsoft-azure?view=sql-server-2017> 
       
-   ![A Recovery Services Vault is deployed to support the Azure Backup Services. The SQL Server availability group is connected to the Azure Backup Service](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image13-corrected.png "Azure Backup for SQL Server in IaaS VM")
+   ![A Recovery Services Vault is deployed to support the Azure Backup Services. The SQL Server availability group is connected to the Azure Backup Service](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image13-Corrected.png "Azure Backup for SQL Server in IaaS VM")
 
 3.  How will you automate the solution for a quick recovery of the ordering application in the event of disaster?
 
