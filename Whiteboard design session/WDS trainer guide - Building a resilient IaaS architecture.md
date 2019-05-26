@@ -463,13 +463,13 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
     -   Data: 10.0.1.0/24
     -   Identity: 10.0.2.0/24
 
-    ** East Asia (172.16.0.0/16)**
+    **East Asia (172.16.0.0/16)**
 
     -   Apps: 172.16.0.0/24
     -   Data: 172.16.1.0/24
     -   Identity: 172.16.2.0/24
 
-    ![This image represents a Virtual Network Configuration gateway containing details.](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image7.png "Virtual Network Configuration gateway")
+    ![This image represents a Virtual Network Configuration gateway containing details.](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image7-Corrected.png "Virtual Network Configuration gateway")
 
 *Virtual Network Gateway configuration details*
 
