@@ -637,7 +637,7 @@ Alternatively, you can also use SQL Server Managed Backup to Azure. It manages a
 For details on SQL Server Managed Backup see the following:
 <https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/enable-sql-server-managed-backup-to-microsoft-azure?view=sql-server-2017> 
       
-   ![A Recovery Services Vault is deployed to support the Azure Backup Services. The SQL Server availability group is connected to the Azure Backup Service](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image13.png "Azure Backup for SQL Server in IaaS VM")
+   ![A Recovery Services Vault is deployed to support the Azure Backup Services. The SQL Server availability group is connected to the Azure Backup Service](images/Whiteboarddesignsessiontrainerguide-BuildingaresilientIaaSarchitectureimages/media/image13-corrected.png "Azure Backup for SQL Server in IaaS VM")
 
 3.  How will you automate the solution for a quick recovery of the ordering application in the event of disaster?
 
