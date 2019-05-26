@@ -92,7 +92,7 @@ The Marketing department has recently been tasked with moving their server workl
 
 Contoso is connected via a Windows Server Routing and Remote Access Service (RRAS) VPN connection to Azure via a Site-to-Site Gateway. They are looking for options to provide redundancy for the hybrid connectivity to Azure due to recent network issues.
 
-While the Azure deployments have served Contoso well so far, they are concerned about expanding workloads for their Seattle datacenter. Matt Wade, business continuity team director, says, "it appears that while services have moved to the cloud, the overall paradigm has not moved from the single datacenter model we have always deployed."
+While the Azure deployments have served Contoso well so far, they are concerned about expanding workloads for their Hongkong datacenter. Matt Wade, business continuity team director, says, "it appears that while services have moved to the cloud, the overall paradigm has not moved from the single datacenter model we have always deployed."
 
 Over a recent three-day holiday weekend, there was an incident with one of the ADDS Domain Controllers where the disk drive housing the AD database filled up and corrupted the database. This prompted a high-priority support call to Microsoft. While the damage was mitigated, the team was fortunate that the consequences were minimal.
 
