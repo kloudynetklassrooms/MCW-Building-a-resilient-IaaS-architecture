@@ -79,7 +79,7 @@ Contoso has asked you to deploy their infrastructure in a resilient manner to in
 ## Solution architecture
 
 Highly resilient deployment of Active Directory Domain Controllers in Azure.
-    ![Highly resilient deployment of Active Directory Domain Controllers in Azure.](images/Hands-onlabstep-bystep-BuildingaresilientIaaSarchitectureimages/media/image11.png "Solution architecture")
+    ![Highly resilient deployment of Active Directory Domain Controllers in Azure.](images/Hands-onlabstep-bystep-BuildingaresilientIaaSarchitectureimages/media/image11-Corrected.png "Solution architecture")
 
 Deployment of a web app using scale sets, and a highly available SQL Always On deployment.
     ![Deployment of a web app using scale sets, and a highly available SQL Always On deployment.](images/Hands-onlabstep-bystep-BuildingaresilientIaaSarchitectureimages/media/image3.png "Solution architecture")
